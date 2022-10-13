@@ -1,1 +1,1 @@
-# Blog-by-val-do
+https://lgellson.github.io/Blog-by-val-do/
